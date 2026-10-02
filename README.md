@@ -24,11 +24,15 @@ Data Analyst with 5+ years of experience across fintech, logistics and retail in
 ## Featured Projects
 
 ### 🛡️ Insurance Analytics & Business Intelligence Dashboard
-**Power BI · DAX · Power Query · Row-Level Security · Drill-Through**
+**Power BI · DAX · Power Query · Drill-Through**
 
-Dashboard on ~10,000 customer records across Auto, Health, Home, Life and Travel, covering **SAR 5.98M in premiums, SAR 600M+ in coverage and SAR 16.91M in claims**. Includes row-level security by line of business and drill-through from summary KPIs to customer, policy and claim detail.
+Insurance portfolio dashboard on **10,000 synthetic policies** across Auto, Health, Home, Life and Travel, covering **5.98M in premiums, 600.55M in coverage and 16.91M in claims**. Shows claims by status and age group, active vs inactive policies, and a drill-through page from policy type to customer, policy and claim detail.
 
-📸 `[Add screenshot]` · 🔗 `[Add repo / PBIX / published report link]`
+**Key findings:** Travel drives about **41% of premium**, **43.5% of claim records are rejected**, and **6.81M of claim value is still pending**. Built on a synthetic practice dataset.
+
+<img width="700" alt="Insurance Analytics Dashboard" src="https://github.com/user-attachments/assets/37792684-4816-4f2e-b79f-246aed65f173" />
+
+🔗 [View repo](https://github.com/Tabrez-ali-khan/Insurance-Analytics-PowerBI)
 
 ### 🚚 Logistics Operations Analytics Dashboard
 **Power BI · DAX · Time Intelligence · Data Modelling · Power Query**
