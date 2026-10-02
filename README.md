@@ -44,6 +44,19 @@ Analysis of **850 loan records (INR 121.2M disbursed)**: **24.80% default rate**
 
 📸 `[Add screenshot]` · 🔗 `[Add repo / XLSX link]`
 
+### 📈 Sales Performance Analysis
+**SQL · Power BI · DAX · Power Query · Star Schema · Excel**
+
+End-to-end retail sales analysis (Jan 2020 – Jan 2024). SQL joins and prepares the data and answers the business questions, feeding a five-page interactive Power BI dashboard built on a star schema, with DAX measures and two date tables for period-vs-period comparison. Covers **3,510 orders, 7,125 units, ≈ ₹122.3M net sales, 30 products and 16 cities**.
+
+**Key findings:** electronics drive about **74% of gross sales**, only **~21% of orders used a promotion**, and deeper discounts (50% and 70% off) cost more per order than the 20% Summer Sale. Built on a synthetic practice dataset.
+
+<img width="700" alt="Sales Performance Dashboard" src="https://github.com/user-attachments/assets/29dd6c9a-91e7-44bd-8cb1-c402f3a2f381" />
+
+
+🔗 [View repo](https://github.com/Tabrez-ali-khan/Sales-Performance-Analysis-SQL-PowerBI)
+
+
 ---
 
 ## Professional Experience
